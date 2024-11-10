@@ -1,0 +1,15 @@
+.pointer {
+    cursor: pointer;
+    user-select: none;
+}
+
+.item {
+    display: flex;
+    width: 200px;
+}
+
+.button {
+    border-style: solid;
+    color: white;
+    background-color: rgb(16, 141, 199);
+}

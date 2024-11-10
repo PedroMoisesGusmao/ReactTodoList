@@ -1,0 +1,11 @@
+#input {}
+
+.input_area {
+    display: flex;
+}
+
+.button {
+    border-style: solid;
+    color: white;
+    background-color: rgb(16, 141, 199);
+}
